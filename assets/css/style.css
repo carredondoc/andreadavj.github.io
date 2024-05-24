@@ -1,5 +1,13 @@
 body{
-    background-color: rgb(238, 203, 170);
+    background-color: rgb(216, 185, 252);
     color: aliceblue;
+}
+.fondo{
+    background-image: url(../img/fondo-m.avif);
+    max-width: 100%;
+}
+.imagen-princial{
+    color: black;
+    background-repeat: no-repeat;
 }
 
