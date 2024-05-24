@@ -1,18 +1,34 @@
 body{
     background-color: rgb(216, 185, 252);
     color: aliceblue;
+    min-height: 100vh;
 }
 .fondo{
     background-image: url(../img/fondo-m.avif);
     max-width: 100%;
+    background-size: cover;
+   
+    flex-direction: row;
+}
+.contenido{
+    display: flex;
+    justify-content: center;
+}
+.imagen-andrea{
+    width: 300px;
+    height: 350px;
+    display: grid;
 }
 .imagen-princial{
     color: black;
     background-repeat: no-repeat;
 }
-.imagen-andrea{
-    max-width: 100%
-}
+
 .tamaño-letra{
     font-size: medium;
+}
+
+.footer{
+    bottom: 0;
+    width: 100%;
 }
