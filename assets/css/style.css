@@ -10,4 +10,6 @@ body{
     color: black;
     background-repeat: no-repeat;
 }
-
+.imagen-andrea{
+    max-width: 100%
+}
