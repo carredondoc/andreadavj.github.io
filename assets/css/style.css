@@ -32,3 +32,11 @@ body{
     bottom: 0;
     width: 100%;
 }
+ul.iconos{
+    display: inline-flex;
+    justify-content: center;
+    list-style: none;
+    gap: 5rem;
+    text-align: center;
+    
+}
