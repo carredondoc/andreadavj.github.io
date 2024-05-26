@@ -1,10 +1,13 @@
 body{
-    background-color: rgb(216, 185, 252);
+    background-color: rgb(153, 132, 138);
     color: aliceblue;
     min-height: 100vh;
 }
-.fondo{
-    background-image: url(../img/fondo-m.avif);
+.navbar-color{
+    background-color: rgb(153, 132, 138);
+}
+.fondo-sobremi{
+    background-image: url(../img/fondo.jpg);
     max-width: 100%;
     background-size: cover;
    
@@ -27,8 +30,12 @@ body{
 .tamaño-letra{
     font-size: medium;
 }
+.fondo-icono{
+    background-color: rgb(160, 155, 156);
+}
 
 .footer{
+    background-color: rgb(153, 132, 138);
     bottom: 0;
     width: 100%;
 }
